@@ -2,6 +2,7 @@
 Objective
 
 In this challenge, we implement a calculator that uses binary numbers.
+
 Task
 
 Implement a simple calculator that performs the following operations on binary numbers: addition, subtraction, multiplication, 
